@@ -1,0 +1,18 @@
+data:
+  train_image_dir: "Data/data/train/image/"
+  train_label_dir: "Data/data/train/label/"
+  val_image_dir: "Data/data/val/image/"
+  val_label_dir: "Data/data/val/label/"
+  
+model:
+  in_layers: 3
+  num_classes: 19
+  
+training:
+  batch_size: 8
+  num_epochs: 80
+  learning_rate: 0.0001
+  weight_decay: 1e-5
+  
+checkpoint:
+  directory: "checkpoints"

@@ -1,0 +1,478 @@
+2024-06-23 08:41:43,894 No checkpoints found. Starting from scratch.
+2024-06-23 08:41:43,894 Starting epoch 0 out of 40
+2024-06-23 08:42:53,628 No checkpoints found. Starting from scratch.
+2024-06-23 08:42:53,629 Starting epoch 0 out of 40
+2024-06-23 08:46:25,420 Training of this epoch is complete, now validating
+2024-06-23 08:47:01,126 Epoch 0 out of 40, Training Loss: 1.6757, Training Metric: 0.0680,                          Validation Loss: 1.5136, Validation Metric: 0.0725
+2024-06-23 08:47:04,646 Checkpoint saved at checkpoints/checkpoint_epoch_0.pth
+2024-06-23 08:47:04,646 New best checkpoint at checkpoints/checkpoint_epoch_0.pth with validation metric 0.0725
+2024-06-23 08:47:04,648 Starting epoch 1 out of 40
+2024-06-23 08:47:56,690 Training of this epoch is complete, now validating
+2024-06-23 08:48:00,125 Epoch 1 out of 40, Training Loss: 1.0087, Training Metric: 0.1469,                          Validation Loss: 1.1382, Validation Metric: 0.1456
+2024-06-23 08:48:03,079 Checkpoint saved at checkpoints/checkpoint_epoch_1.pth
+2024-06-23 08:48:03,079 New best checkpoint at checkpoints/checkpoint_epoch_1.pth with validation metric 0.1456
+2024-06-23 08:48:03,137 Deleted old checkpoint checkpoints/checkpoint_epoch_0.pth
+2024-06-23 08:48:03,137 Starting epoch 2 out of 40
+2024-06-23 08:48:52,908 Training of this epoch is complete, now validating
+2024-06-23 08:48:56,261 Epoch 2 out of 40, Training Loss: 0.8824, Training Metric: 0.1744,                          Validation Loss: 1.4366, Validation Metric: 0.1659
+2024-06-23 08:48:59,205 Checkpoint saved at checkpoints/checkpoint_epoch_2.pth
+2024-06-23 08:48:59,206 New best checkpoint at checkpoints/checkpoint_epoch_2.pth with validation metric 0.1659
+2024-06-23 08:48:59,266 Deleted old checkpoint checkpoints/checkpoint_epoch_1.pth
+2024-06-23 08:48:59,266 Starting epoch 3 out of 40
+2024-06-23 08:49:48,647 Training of this epoch is complete, now validating
+2024-06-23 08:49:51,983 Epoch 3 out of 40, Training Loss: 0.7974, Training Metric: 0.1932,                          Validation Loss: 1.0701, Validation Metric: 0.1862
+2024-06-23 08:49:54,958 Checkpoint saved at checkpoints/checkpoint_epoch_3.pth
+2024-06-23 08:49:54,959 New best checkpoint at checkpoints/checkpoint_epoch_3.pth with validation metric 0.1862
+2024-06-23 08:49:55,017 Deleted old checkpoint checkpoints/checkpoint_epoch_2.pth
+2024-06-23 08:49:55,017 Starting epoch 4 out of 40
+2024-06-23 08:50:44,390 Training of this epoch is complete, now validating
+2024-06-23 08:50:47,758 Epoch 4 out of 40, Training Loss: 0.7165, Training Metric: 0.2228,                          Validation Loss: 1.0382, Validation Metric: 0.2158
+2024-06-23 08:50:50,708 Checkpoint saved at checkpoints/checkpoint_epoch_4.pth
+2024-06-23 08:50:50,708 New best checkpoint at checkpoints/checkpoint_epoch_4.pth with validation metric 0.2158
+2024-06-23 08:50:50,768 Deleted old checkpoint checkpoints/checkpoint_epoch_3.pth
+2024-06-23 08:50:50,768 Starting epoch 5 out of 40
+2024-06-23 08:51:39,808 Training of this epoch is complete, now validating
+2024-06-23 08:51:43,151 Epoch 5 out of 40, Training Loss: 0.6720, Training Metric: 0.2359,                          Validation Loss: 1.0050, Validation Metric: 0.2269
+2024-06-23 08:51:46,167 Checkpoint saved at checkpoints/checkpoint_epoch_5.pth
+2024-06-23 08:51:46,167 New best checkpoint at checkpoints/checkpoint_epoch_5.pth with validation metric 0.2269
+2024-06-23 08:51:46,226 Deleted old checkpoint checkpoints/checkpoint_epoch_4.pth
+2024-06-23 08:51:46,226 Starting epoch 6 out of 40
+2024-06-23 08:52:36,787 Training of this epoch is complete, now validating
+2024-06-23 08:52:40,135 Epoch 6 out of 40, Training Loss: 0.6391, Training Metric: 0.2442,                          Validation Loss: 1.0350, Validation Metric: 0.2317
+2024-06-23 08:52:43,115 Checkpoint saved at checkpoints/checkpoint_epoch_6.pth
+2024-06-23 08:52:43,116 New best checkpoint at checkpoints/checkpoint_epoch_6.pth with validation metric 0.2317
+2024-06-23 08:52:43,175 Deleted old checkpoint checkpoints/checkpoint_epoch_5.pth
+2024-06-23 08:52:43,176 Starting epoch 7 out of 40
+2024-06-23 08:53:32,185 Training of this epoch is complete, now validating
+2024-06-23 08:53:35,487 Epoch 7 out of 40, Training Loss: 0.6137, Training Metric: 0.2527,                          Validation Loss: 1.0898, Validation Metric: 0.2400
+2024-06-23 08:53:38,559 Checkpoint saved at checkpoints/checkpoint_epoch_7.pth
+2024-06-23 08:53:38,560 New best checkpoint at checkpoints/checkpoint_epoch_7.pth with validation metric 0.2400
+2024-06-23 08:53:38,620 Deleted old checkpoint checkpoints/checkpoint_epoch_6.pth
+2024-06-23 08:53:38,620 Starting epoch 8 out of 40
+2024-06-23 08:54:27,812 Training of this epoch is complete, now validating
+2024-06-23 08:54:31,259 Epoch 8 out of 40, Training Loss: 0.5862, Training Metric: 0.2605,                          Validation Loss: 0.9728, Validation Metric: 0.2487
+2024-06-23 08:54:34,276 Checkpoint saved at checkpoints/checkpoint_epoch_8.pth
+2024-06-23 08:54:34,277 New best checkpoint at checkpoints/checkpoint_epoch_8.pth with validation metric 0.2487
+2024-06-23 08:54:34,335 Deleted old checkpoint checkpoints/checkpoint_epoch_7.pth
+2024-06-23 08:54:34,335 Starting epoch 9 out of 40
+2024-06-23 08:55:23,919 Training of this epoch is complete, now validating
+2024-06-23 08:55:27,289 Epoch 9 out of 40, Training Loss: 0.5629, Training Metric: 0.2674,                          Validation Loss: 0.8449, Validation Metric: 0.2555
+2024-06-23 08:55:30,238 Checkpoint saved at checkpoints/checkpoint_epoch_9.pth
+2024-06-23 08:55:30,238 New best checkpoint at checkpoints/checkpoint_epoch_9.pth with validation metric 0.2555
+2024-06-23 08:55:30,297 Deleted old checkpoint checkpoints/checkpoint_epoch_8.pth
+2024-06-23 08:55:30,298 Starting epoch 10 out of 40
+2024-06-23 08:56:20,356 Training of this epoch is complete, now validating
+2024-06-23 08:56:23,690 Epoch 10 out of 40, Training Loss: 0.5426, Training Metric: 0.2741,                          Validation Loss: 0.9714, Validation Metric: 0.2596
+2024-06-23 08:56:26,723 Checkpoint saved at checkpoints/checkpoint_epoch_10.pth
+2024-06-23 08:56:26,723 New best checkpoint at checkpoints/checkpoint_epoch_10.pth with validation metric 0.2596
+2024-06-23 08:56:26,782 Deleted old checkpoint checkpoints/checkpoint_epoch_9.pth
+2024-06-23 08:56:26,782 Starting epoch 11 out of 40
+2024-06-23 08:57:17,109 Training of this epoch is complete, now validating
+2024-06-23 08:57:20,440 Epoch 11 out of 40, Training Loss: 0.5273, Training Metric: 0.2779,                          Validation Loss: 0.9341, Validation Metric: 0.2610
+2024-06-23 08:57:23,356 Checkpoint saved at checkpoints/checkpoint_epoch_11.pth
+2024-06-23 08:57:23,357 New best checkpoint at checkpoints/checkpoint_epoch_11.pth with validation metric 0.2610
+2024-06-23 08:57:23,415 Deleted old checkpoint checkpoints/checkpoint_epoch_10.pth
+2024-06-23 08:57:23,415 Starting epoch 12 out of 40
+2024-06-23 08:58:13,241 Training of this epoch is complete, now validating
+2024-06-23 08:58:16,664 Epoch 12 out of 40, Training Loss: 0.5168, Training Metric: 0.2805,                          Validation Loss: 0.7806, Validation Metric: 0.2673
+2024-06-23 08:58:19,708 Checkpoint saved at checkpoints/checkpoint_epoch_12.pth
+2024-06-23 08:58:19,709 New best checkpoint at checkpoints/checkpoint_epoch_12.pth with validation metric 0.2673
+2024-06-23 08:58:19,767 Deleted old checkpoint checkpoints/checkpoint_epoch_11.pth
+2024-06-23 08:58:19,767 Starting epoch 13 out of 40
+2024-06-23 08:59:09,508 Training of this epoch is complete, now validating
+2024-06-23 08:59:12,863 Epoch 13 out of 40, Training Loss: 0.4973, Training Metric: 0.2872,                          Validation Loss: 0.7831, Validation Metric: 0.2727
+2024-06-23 08:59:15,877 Checkpoint saved at checkpoints/checkpoint_epoch_13.pth
+2024-06-23 08:59:15,878 New best checkpoint at checkpoints/checkpoint_epoch_13.pth with validation metric 0.2727
+2024-06-23 08:59:15,936 Deleted old checkpoint checkpoints/checkpoint_epoch_12.pth
+2024-06-23 08:59:15,936 Starting epoch 14 out of 40
+2024-06-23 09:00:05,828 Training of this epoch is complete, now validating
+2024-06-23 09:00:09,190 Epoch 14 out of 40, Training Loss: 0.4887, Training Metric: 0.2904,                          Validation Loss: 0.7987, Validation Metric: 0.2769
+2024-06-23 09:00:12,075 Checkpoint saved at checkpoints/checkpoint_epoch_14.pth
+2024-06-23 09:00:12,075 New best checkpoint at checkpoints/checkpoint_epoch_14.pth with validation metric 0.2769
+2024-06-23 09:00:12,135 Deleted old checkpoint checkpoints/checkpoint_epoch_13.pth
+2024-06-23 09:00:12,135 Starting epoch 15 out of 40
+2024-06-23 09:01:01,581 Training of this epoch is complete, now validating
+2024-06-23 09:01:04,956 Epoch 15 out of 40, Training Loss: 0.4764, Training Metric: 0.2953,                          Validation Loss: 0.7199, Validation Metric: 0.2837
+2024-06-23 09:01:07,971 Checkpoint saved at checkpoints/checkpoint_epoch_15.pth
+2024-06-23 09:01:07,971 New best checkpoint at checkpoints/checkpoint_epoch_15.pth with validation metric 0.2837
+2024-06-23 09:01:08,032 Deleted old checkpoint checkpoints/checkpoint_epoch_14.pth
+2024-06-23 09:01:08,032 Starting epoch 16 out of 40
+2024-06-23 09:01:57,032 Training of this epoch is complete, now validating
+2024-06-23 09:02:00,397 Epoch 16 out of 40, Training Loss: 0.4653, Training Metric: 0.2970,                          Validation Loss: 0.7746, Validation Metric: 0.2843
+2024-06-23 09:02:03,456 Checkpoint saved at checkpoints/checkpoint_epoch_16.pth
+2024-06-23 09:02:03,456 New best checkpoint at checkpoints/checkpoint_epoch_16.pth with validation metric 0.2843
+2024-06-23 09:02:03,515 Deleted old checkpoint checkpoints/checkpoint_epoch_15.pth
+2024-06-23 09:02:03,515 Starting epoch 17 out of 40
+2024-06-23 09:02:52,620 Training of this epoch is complete, now validating
+2024-06-23 09:02:55,943 Epoch 17 out of 40, Training Loss: 0.4593, Training Metric: 0.2994,                          Validation Loss: 0.8048, Validation Metric: 0.2829
+2024-06-23 09:02:58,991 Checkpoint saved at checkpoints/checkpoint_epoch_17.pth
+2024-06-23 09:02:58,993 Starting epoch 18 out of 40
+2024-06-23 09:03:48,021 Training of this epoch is complete, now validating
+2024-06-23 09:03:51,370 Epoch 18 out of 40, Training Loss: 0.4464, Training Metric: 0.3038,                          Validation Loss: 0.7036, Validation Metric: 0.2921
+2024-06-23 09:03:54,358 Checkpoint saved at checkpoints/checkpoint_epoch_18.pth
+2024-06-23 09:03:54,358 New best checkpoint at checkpoints/checkpoint_epoch_18.pth with validation metric 0.2921
+2024-06-23 09:03:54,419 Deleted old checkpoint checkpoints/checkpoint_epoch_16.pth
+2024-06-23 09:03:54,478 Deleted old checkpoint checkpoints/checkpoint_epoch_17.pth
+2024-06-23 09:03:54,478 Starting epoch 19 out of 40
+2024-06-23 09:04:43,902 Training of this epoch is complete, now validating
+2024-06-23 09:04:47,266 Epoch 19 out of 40, Training Loss: 0.4360, Training Metric: 0.3052,                          Validation Loss: 0.7695, Validation Metric: 0.2922
+2024-06-23 09:04:50,151 Checkpoint saved at checkpoints/checkpoint_epoch_19.pth
+2024-06-23 09:04:50,151 New best checkpoint at checkpoints/checkpoint_epoch_19.pth with validation metric 0.2922
+2024-06-23 09:04:50,209 Deleted old checkpoint checkpoints/checkpoint_epoch_18.pth
+2024-06-23 09:04:50,209 Starting epoch 20 out of 40
+2024-06-23 09:05:39,913 Training of this epoch is complete, now validating
+2024-06-23 09:05:43,229 Epoch 20 out of 40, Training Loss: 0.4266, Training Metric: 0.3100,                          Validation Loss: 0.7082, Validation Metric: 0.2970
+2024-06-23 09:05:46,355 Checkpoint saved at checkpoints/checkpoint_epoch_20.pth
+2024-06-23 09:05:46,355 New best checkpoint at checkpoints/checkpoint_epoch_20.pth with validation metric 0.2970
+2024-06-23 09:05:46,415 Deleted old checkpoint checkpoints/checkpoint_epoch_19.pth
+2024-06-23 09:05:46,415 Starting epoch 21 out of 40
+2024-06-23 09:06:36,821 Training of this epoch is complete, now validating
+2024-06-23 09:06:40,179 Epoch 21 out of 40, Training Loss: 0.4199, Training Metric: 0.3140,                          Validation Loss: 0.8475, Validation Metric: 0.2983
+2024-06-23 09:06:43,124 Checkpoint saved at checkpoints/checkpoint_epoch_21.pth
+2024-06-23 09:06:43,124 New best checkpoint at checkpoints/checkpoint_epoch_21.pth with validation metric 0.2983
+2024-06-23 09:06:43,183 Deleted old checkpoint checkpoints/checkpoint_epoch_20.pth
+2024-06-23 09:06:43,184 Starting epoch 22 out of 40
+2024-06-23 09:07:32,874 Training of this epoch is complete, now validating
+2024-06-23 09:07:37,170 Epoch 22 out of 40, Training Loss: 0.4114, Training Metric: 0.3209,                          Validation Loss: 0.6085, Validation Metric: 0.3100
+2024-06-23 09:07:40,158 Checkpoint saved at checkpoints/checkpoint_epoch_22.pth
+2024-06-23 09:07:40,158 New best checkpoint at checkpoints/checkpoint_epoch_22.pth with validation metric 0.3100
+2024-06-23 09:07:40,216 Deleted old checkpoint checkpoints/checkpoint_epoch_21.pth
+2024-06-23 09:07:40,216 Starting epoch 23 out of 40
+2024-06-23 09:08:30,105 Training of this epoch is complete, now validating
+2024-06-23 09:08:33,457 Epoch 23 out of 40, Training Loss: 0.4005, Training Metric: 0.3261,                          Validation Loss: 0.6400, Validation Metric: 0.3148
+2024-06-23 09:08:36,392 Checkpoint saved at checkpoints/checkpoint_epoch_23.pth
+2024-06-23 09:08:36,392 New best checkpoint at checkpoints/checkpoint_epoch_23.pth with validation metric 0.3148
+2024-06-23 09:08:36,450 Deleted old checkpoint checkpoints/checkpoint_epoch_22.pth
+2024-06-23 09:08:36,450 Starting epoch 24 out of 40
+2024-06-23 09:09:26,180 Training of this epoch is complete, now validating
+2024-06-23 09:09:29,519 Epoch 24 out of 40, Training Loss: 0.3909, Training Metric: 0.3277,                          Validation Loss: 0.7595, Validation Metric: 0.3118
+2024-06-23 09:09:32,563 Checkpoint saved at checkpoints/checkpoint_epoch_24.pth
+2024-06-23 09:09:32,565 Starting epoch 25 out of 40
+2024-06-23 09:10:22,185 Training of this epoch is complete, now validating
+2024-06-23 09:10:25,520 Epoch 25 out of 40, Training Loss: 0.3838, Training Metric: 0.3354,                          Validation Loss: 0.6339, Validation Metric: 0.3236
+2024-06-23 09:10:28,472 Checkpoint saved at checkpoints/checkpoint_epoch_25.pth
+2024-06-23 09:10:28,472 New best checkpoint at checkpoints/checkpoint_epoch_25.pth with validation metric 0.3236
+2024-06-23 09:10:28,530 Deleted old checkpoint checkpoints/checkpoint_epoch_23.pth
+2024-06-23 09:10:28,589 Deleted old checkpoint checkpoints/checkpoint_epoch_24.pth
+2024-06-23 09:10:28,589 Starting epoch 26 out of 40
+2024-06-23 09:11:18,061 Training of this epoch is complete, now validating
+2024-06-23 09:11:21,415 Epoch 26 out of 40, Training Loss: 0.3775, Training Metric: 0.3412,                          Validation Loss: 0.5693, Validation Metric: 0.3305
+2024-06-23 09:11:24,440 Checkpoint saved at checkpoints/checkpoint_epoch_26.pth
+2024-06-23 09:11:24,440 New best checkpoint at checkpoints/checkpoint_epoch_26.pth with validation metric 0.3305
+2024-06-23 09:11:24,499 Deleted old checkpoint checkpoints/checkpoint_epoch_25.pth
+2024-06-23 09:11:24,499 Starting epoch 27 out of 40
+2024-06-23 09:12:13,662 Training of this epoch is complete, now validating
+2024-06-23 09:12:17,037 Epoch 27 out of 40, Training Loss: 0.3739, Training Metric: 0.3429,                          Validation Loss: 0.7099, Validation Metric: 0.3284
+2024-06-23 09:12:20,057 Checkpoint saved at checkpoints/checkpoint_epoch_27.pth
+2024-06-23 09:12:20,058 Starting epoch 28 out of 40
+2024-06-23 09:13:09,660 Training of this epoch is complete, now validating
+2024-06-23 09:13:13,037 Epoch 28 out of 40, Training Loss: 0.3721, Training Metric: 0.3453,                          Validation Loss: 0.6303, Validation Metric: 0.3324
+2024-06-23 09:13:15,994 Checkpoint saved at checkpoints/checkpoint_epoch_28.pth
+2024-06-23 09:13:15,994 New best checkpoint at checkpoints/checkpoint_epoch_28.pth with validation metric 0.3324
+2024-06-23 09:13:16,052 Deleted old checkpoint checkpoints/checkpoint_epoch_26.pth
+2024-06-23 09:13:16,110 Deleted old checkpoint checkpoints/checkpoint_epoch_27.pth
+2024-06-23 09:13:16,110 Starting epoch 29 out of 40
+2024-06-23 09:14:05,179 Training of this epoch is complete, now validating
+2024-06-23 09:14:08,533 Epoch 29 out of 40, Training Loss: 0.3639, Training Metric: 0.3488,                          Validation Loss: 0.6236, Validation Metric: 0.3351
+2024-06-23 09:14:11,504 Checkpoint saved at checkpoints/checkpoint_epoch_29.pth
+2024-06-23 09:14:11,504 New best checkpoint at checkpoints/checkpoint_epoch_29.pth with validation metric 0.3351
+2024-06-23 09:14:11,562 Deleted old checkpoint checkpoints/checkpoint_epoch_28.pth
+2024-06-23 09:14:11,562 Starting epoch 30 out of 40
+2024-06-23 09:15:01,059 Training of this epoch is complete, now validating
+2024-06-23 09:15:04,399 Epoch 30 out of 40, Training Loss: 0.3543, Training Metric: 0.3535,                          Validation Loss: 0.6203, Validation Metric: 0.3392
+2024-06-23 09:15:07,398 Checkpoint saved at checkpoints/checkpoint_epoch_30.pth
+2024-06-23 09:15:07,399 New best checkpoint at checkpoints/checkpoint_epoch_30.pth with validation metric 0.3392
+2024-06-23 09:15:07,458 Deleted old checkpoint checkpoints/checkpoint_epoch_29.pth
+2024-06-23 09:15:07,458 Starting epoch 31 out of 40
+2024-06-23 09:15:56,697 Training of this epoch is complete, now validating
+2024-06-23 09:16:00,054 Epoch 31 out of 40, Training Loss: 0.3482, Training Metric: 0.3611,                          Validation Loss: 0.6046, Validation Metric: 0.3474
+2024-06-23 09:16:03,064 Checkpoint saved at checkpoints/checkpoint_epoch_31.pth
+2024-06-23 09:16:03,064 New best checkpoint at checkpoints/checkpoint_epoch_31.pth with validation metric 0.3474
+2024-06-23 09:16:03,124 Deleted old checkpoint checkpoints/checkpoint_epoch_30.pth
+2024-06-23 09:16:03,124 Starting epoch 32 out of 40
+2024-06-23 09:16:53,357 Training of this epoch is complete, now validating
+2024-06-23 09:16:56,694 Epoch 32 out of 40, Training Loss: 0.3421, Training Metric: 0.3629,                          Validation Loss: 0.6346, Validation Metric: 0.3468
+2024-06-23 09:16:59,509 Checkpoint saved at checkpoints/checkpoint_epoch_32.pth
+2024-06-23 09:16:59,514 Starting epoch 33 out of 40
+2024-06-23 09:17:49,367 Training of this epoch is complete, now validating
+2024-06-23 09:17:52,696 Epoch 33 out of 40, Training Loss: 0.3388, Training Metric: 0.3658,                          Validation Loss: 0.6475, Validation Metric: 0.3487
+2024-06-23 09:17:55,648 Checkpoint saved at checkpoints/checkpoint_epoch_33.pth
+2024-06-23 09:17:55,648 New best checkpoint at checkpoints/checkpoint_epoch_33.pth with validation metric 0.3487
+2024-06-23 09:17:55,707 Deleted old checkpoint checkpoints/checkpoint_epoch_31.pth
+2024-06-23 09:17:55,766 Deleted old checkpoint checkpoints/checkpoint_epoch_32.pth
+2024-06-23 09:17:55,766 Starting epoch 34 out of 40
+2024-06-23 09:18:45,533 Training of this epoch is complete, now validating
+2024-06-23 09:18:48,872 Epoch 34 out of 40, Training Loss: 0.3335, Training Metric: 0.3691,                          Validation Loss: 0.6042, Validation Metric: 0.3542
+2024-06-23 09:18:51,959 Checkpoint saved at checkpoints/checkpoint_epoch_34.pth
+2024-06-23 09:18:51,960 New best checkpoint at checkpoints/checkpoint_epoch_34.pth with validation metric 0.3542
+2024-06-23 09:18:52,019 Deleted old checkpoint checkpoints/checkpoint_epoch_33.pth
+2024-06-23 09:18:52,019 Starting epoch 35 out of 40
+2024-06-23 09:19:41,859 Training of this epoch is complete, now validating
+2024-06-23 09:19:45,230 Epoch 35 out of 40, Training Loss: 0.3336, Training Metric: 0.3717,                          Validation Loss: 0.5795, Validation Metric: 0.3575
+2024-06-23 09:19:48,201 Checkpoint saved at checkpoints/checkpoint_epoch_35.pth
+2024-06-23 09:19:48,201 New best checkpoint at checkpoints/checkpoint_epoch_35.pth with validation metric 0.3575
+2024-06-23 09:19:48,261 Deleted old checkpoint checkpoints/checkpoint_epoch_34.pth
+2024-06-23 09:19:48,261 Starting epoch 36 out of 40
+2024-06-23 09:20:37,941 Training of this epoch is complete, now validating
+2024-06-23 09:20:41,306 Epoch 36 out of 40, Training Loss: 0.3275, Training Metric: 0.3755,                          Validation Loss: 0.5837, Validation Metric: 0.3601
+2024-06-23 09:20:44,310 Checkpoint saved at checkpoints/checkpoint_epoch_36.pth
+2024-06-23 09:20:44,310 New best checkpoint at checkpoints/checkpoint_epoch_36.pth with validation metric 0.3601
+2024-06-23 09:20:44,369 Deleted old checkpoint checkpoints/checkpoint_epoch_35.pth
+2024-06-23 09:20:44,369 Starting epoch 37 out of 40
+2024-06-23 09:21:33,795 Training of this epoch is complete, now validating
+2024-06-23 09:21:37,112 Epoch 37 out of 40, Training Loss: 0.3254, Training Metric: 0.3777,                          Validation Loss: 0.6079, Validation Metric: 0.3628
+2024-06-23 09:21:40,074 Checkpoint saved at checkpoints/checkpoint_epoch_37.pth
+2024-06-23 09:21:40,075 New best checkpoint at checkpoints/checkpoint_epoch_37.pth with validation metric 0.3628
+2024-06-23 09:21:40,135 Deleted old checkpoint checkpoints/checkpoint_epoch_36.pth
+2024-06-23 09:21:40,135 Starting epoch 38 out of 40
+2024-06-23 09:22:30,398 Training of this epoch is complete, now validating
+2024-06-23 09:22:33,791 Epoch 38 out of 40, Training Loss: 0.3187, Training Metric: 0.3824,                          Validation Loss: 0.6031, Validation Metric: 0.3650
+2024-06-23 09:22:36,864 Checkpoint saved at checkpoints/checkpoint_epoch_38.pth
+2024-06-23 09:22:36,864 New best checkpoint at checkpoints/checkpoint_epoch_38.pth with validation metric 0.3650
+2024-06-23 09:22:36,926 Deleted old checkpoint checkpoints/checkpoint_epoch_37.pth
+2024-06-23 09:22:36,926 Starting epoch 39 out of 40
+2024-06-23 09:23:26,022 Training of this epoch is complete, now validating
+2024-06-23 09:23:29,413 Epoch 39 out of 40, Training Loss: 0.3160, Training Metric: 0.3830,                          Validation Loss: 0.6202, Validation Metric: 0.3657
+2024-06-23 09:23:32,516 Checkpoint saved at checkpoints/checkpoint_epoch_39.pth
+2024-06-23 09:23:32,516 New best checkpoint at checkpoints/checkpoint_epoch_39.pth with validation metric 0.3657
+2024-06-23 09:23:32,588 Deleted old checkpoint checkpoints/checkpoint_epoch_38.pth
+2024-06-23 09:24:00,329 Loaded checkpoint from checkpoints/checkpoint_epoch_39.pth, starting at epoch 39
+2024-06-23 09:24:00,330 Starting epoch 39 out of 50
+2024-06-23 09:24:51,936 Training of this epoch is complete, now validating
+2024-06-23 09:24:55,368 Epoch 39 out of 50, Training Loss: 0.3091, Training Metric: 0.3890, Validation Loss: 0.6010, Validation Metric: 0.3735
+2024-06-23 09:24:58,492 Checkpoint saved at checkpoints/checkpoint_epoch_39.pth
+2024-06-23 09:24:58,493 New best checkpoint at checkpoints/checkpoint_epoch_39.pth with validation metric 0.3735
+2024-06-23 09:24:58,493 Starting epoch 40 out of 50
+2024-06-23 09:25:48,822 Training of this epoch is complete, now validating
+2024-06-23 09:25:52,232 Epoch 40 out of 50, Training Loss: 0.3078, Training Metric: 0.3907, Validation Loss: 0.6075, Validation Metric: 0.3725
+2024-06-23 09:25:55,280 Checkpoint saved at checkpoints/checkpoint_epoch_40.pth
+2024-06-23 09:25:55,282 Starting epoch 41 out of 50
+2024-06-23 09:26:46,017 Training of this epoch is complete, now validating
+2024-06-23 09:26:49,414 Epoch 41 out of 50, Training Loss: 0.3047, Training Metric: 0.3926, Validation Loss: 0.6275, Validation Metric: 0.3743
+2024-06-23 09:26:52,460 Checkpoint saved at checkpoints/checkpoint_epoch_41.pth
+2024-06-23 09:26:52,460 New best checkpoint at checkpoints/checkpoint_epoch_41.pth with validation metric 0.3743
+2024-06-23 09:26:52,520 Deleted old checkpoint checkpoints/checkpoint_epoch_39.pth
+2024-06-23 09:26:52,580 Deleted old checkpoint checkpoints/checkpoint_epoch_40.pth
+2024-06-23 09:26:52,580 Starting epoch 42 out of 50
+2024-06-23 09:27:42,540 Training of this epoch is complete, now validating
+2024-06-23 09:27:45,930 Epoch 42 out of 50, Training Loss: 0.2989, Training Metric: 0.3976, Validation Loss: 0.5733, Validation Metric: 0.3800
+2024-06-23 09:27:49,022 Checkpoint saved at checkpoints/checkpoint_epoch_42.pth
+2024-06-23 09:27:49,022 New best checkpoint at checkpoints/checkpoint_epoch_42.pth with validation metric 0.3800
+2024-06-23 09:27:49,081 Deleted old checkpoint checkpoints/checkpoint_epoch_41.pth
+2024-06-23 09:27:49,081 Starting epoch 43 out of 50
+2024-06-23 09:28:39,149 Training of this epoch is complete, now validating
+2024-06-23 09:28:42,555 Epoch 43 out of 50, Training Loss: 0.3057, Training Metric: 0.3921, Validation Loss: 0.6012, Validation Metric: 0.3741
+2024-06-23 09:28:45,621 Checkpoint saved at checkpoints/checkpoint_epoch_43.pth
+2024-06-23 09:28:45,623 Starting epoch 44 out of 50
+2024-06-23 09:29:34,942 Training of this epoch is complete, now validating
+2024-06-23 09:29:38,334 Epoch 44 out of 50, Training Loss: 0.2955, Training Metric: 0.4009, Validation Loss: 0.6092, Validation Metric: 0.3826
+2024-06-23 09:29:41,351 Checkpoint saved at checkpoints/checkpoint_epoch_44.pth
+2024-06-23 09:29:41,351 New best checkpoint at checkpoints/checkpoint_epoch_44.pth with validation metric 0.3826
+2024-06-23 09:29:41,412 Deleted old checkpoint checkpoints/checkpoint_epoch_42.pth
+2024-06-23 09:29:41,470 Deleted old checkpoint checkpoints/checkpoint_epoch_43.pth
+2024-06-23 09:29:41,470 Starting epoch 45 out of 50
+2024-06-23 09:30:32,344 Training of this epoch is complete, now validating
+2024-06-23 09:30:36,514 Epoch 45 out of 50, Training Loss: 0.2898, Training Metric: 0.4060, Validation Loss: 0.5837, Validation Metric: 0.3876
+2024-06-23 09:30:39,545 Checkpoint saved at checkpoints/checkpoint_epoch_45.pth
+2024-06-23 09:30:39,546 New best checkpoint at checkpoints/checkpoint_epoch_45.pth with validation metric 0.3876
+2024-06-23 09:30:39,610 Deleted old checkpoint checkpoints/checkpoint_epoch_44.pth
+2024-06-23 09:30:39,610 Starting epoch 46 out of 50
+2024-06-23 09:31:29,072 Training of this epoch is complete, now validating
+2024-06-23 09:31:32,530 Epoch 46 out of 50, Training Loss: 0.2895, Training Metric: 0.4046, Validation Loss: 0.5855, Validation Metric: 0.3867
+2024-06-23 09:31:35,542 Checkpoint saved at checkpoints/checkpoint_epoch_46.pth
+2024-06-23 09:31:35,544 Starting epoch 47 out of 50
+2024-06-23 09:32:25,208 Training of this epoch is complete, now validating
+2024-06-23 09:32:28,578 Epoch 47 out of 50, Training Loss: 0.2896, Training Metric: 0.4068, Validation Loss: 0.5772, Validation Metric: 0.3877
+2024-06-23 09:32:31,579 Checkpoint saved at checkpoints/checkpoint_epoch_47.pth
+2024-06-23 09:32:31,579 New best checkpoint at checkpoints/checkpoint_epoch_47.pth with validation metric 0.3877
+2024-06-23 09:32:31,641 Deleted old checkpoint checkpoints/checkpoint_epoch_45.pth
+2024-06-23 09:32:31,700 Deleted old checkpoint checkpoints/checkpoint_epoch_46.pth
+2024-06-23 09:32:31,700 Starting epoch 48 out of 50
+2024-06-23 09:33:21,518 Training of this epoch is complete, now validating
+2024-06-23 09:33:24,944 Epoch 48 out of 50, Training Loss: 0.2859, Training Metric: 0.4117, Validation Loss: 0.6099, Validation Metric: 0.3915
+2024-06-23 09:33:28,144 Checkpoint saved at checkpoints/checkpoint_epoch_48.pth
+2024-06-23 09:33:28,144 New best checkpoint at checkpoints/checkpoint_epoch_48.pth with validation metric 0.3915
+2024-06-23 09:33:28,201 Deleted old checkpoint checkpoints/checkpoint_epoch_47.pth
+2024-06-23 09:33:28,201 Starting epoch 49 out of 50
+2024-06-23 09:34:18,664 Training of this epoch is complete, now validating
+2024-06-23 09:34:22,091 Epoch 49 out of 50, Training Loss: 0.2829, Training Metric: 0.4116, Validation Loss: 0.5769, Validation Metric: 0.3928
+2024-06-23 09:34:25,144 Checkpoint saved at checkpoints/checkpoint_epoch_49.pth
+2024-06-23 09:34:25,144 New best checkpoint at checkpoints/checkpoint_epoch_49.pth with validation metric 0.3928
+2024-06-23 09:34:25,205 Deleted old checkpoint checkpoints/checkpoint_epoch_48.pth
+2024-06-23 09:35:58,121 Loaded checkpoint from checkpoints/checkpoint_epoch_49.pth, starting at epoch 49
+2024-06-23 09:35:58,122 Starting epoch 49 out of 80
+2024-06-23 09:36:51,322 Training of this epoch is complete, now validating
+2024-06-23 09:36:55,341 Epoch 49 out of 80, Training Loss: 0.2801, Training Metric: 0.4159, Validation Loss: 0.5638, Validation Metric: 0.3964
+2024-06-23 09:36:58,500 Checkpoint saved at checkpoints/checkpoint_epoch_49.pth
+2024-06-23 09:36:58,500 New best checkpoint at checkpoints/checkpoint_epoch_49.pth with validation metric 0.3964
+2024-06-23 09:36:58,500 Starting epoch 50 out of 80
+2024-06-23 09:37:49,316 Training of this epoch is complete, now validating
+2024-06-23 09:37:53,283 Epoch 50 out of 80, Training Loss: 0.2761, Training Metric: 0.4193, Validation Loss: 0.5834, Validation Metric: 0.3993
+2024-06-23 09:37:56,312 Checkpoint saved at checkpoints/checkpoint_epoch_50.pth
+2024-06-23 09:37:56,312 New best checkpoint at checkpoints/checkpoint_epoch_50.pth with validation metric 0.3993
+2024-06-23 09:37:56,371 Deleted old checkpoint checkpoints/checkpoint_epoch_49.pth
+2024-06-23 09:37:56,371 Starting epoch 51 out of 80
+2024-06-23 09:38:45,948 Training of this epoch is complete, now validating
+2024-06-23 09:38:49,941 Epoch 51 out of 80, Training Loss: 0.2772, Training Metric: 0.4175, Validation Loss: 0.5658, Validation Metric: 0.3976
+2024-06-23 09:38:52,979 Checkpoint saved at checkpoints/checkpoint_epoch_51.pth
+2024-06-23 09:38:52,980 Starting epoch 52 out of 80
+2024-06-23 09:39:43,358 Training of this epoch is complete, now validating
+2024-06-23 09:39:47,356 Epoch 52 out of 80, Training Loss: 0.2741, Training Metric: 0.4221, Validation Loss: 0.5472, Validation Metric: 0.4033
+2024-06-23 09:39:50,460 Checkpoint saved at checkpoints/checkpoint_epoch_52.pth
+2024-06-23 09:39:50,460 New best checkpoint at checkpoints/checkpoint_epoch_52.pth with validation metric 0.4033
+2024-06-23 09:39:50,520 Deleted old checkpoint checkpoints/checkpoint_epoch_50.pth
+2024-06-23 09:39:50,579 Deleted old checkpoint checkpoints/checkpoint_epoch_51.pth
+2024-06-23 09:39:50,580 Starting epoch 53 out of 80
+2024-06-23 09:40:40,057 Training of this epoch is complete, now validating
+2024-06-23 09:40:44,018 Epoch 53 out of 80, Training Loss: 0.2752, Training Metric: 0.4226, Validation Loss: 0.5544, Validation Metric: 0.4034
+2024-06-23 09:40:47,135 Checkpoint saved at checkpoints/checkpoint_epoch_53.pth
+2024-06-23 09:40:47,135 New best checkpoint at checkpoints/checkpoint_epoch_53.pth with validation metric 0.4034
+2024-06-23 09:40:47,194 Deleted old checkpoint checkpoints/checkpoint_epoch_52.pth
+2024-06-23 09:40:47,194 Starting epoch 54 out of 80
+2024-06-23 09:41:36,184 Training of this epoch is complete, now validating
+2024-06-23 09:41:40,198 Epoch 54 out of 80, Training Loss: 0.2719, Training Metric: 0.4228, Validation Loss: 0.5254, Validation Metric: 0.4046
+2024-06-23 09:41:43,126 Checkpoint saved at checkpoints/checkpoint_epoch_54.pth
+2024-06-23 09:41:43,126 New best checkpoint at checkpoints/checkpoint_epoch_54.pth with validation metric 0.4046
+2024-06-23 09:41:43,186 Deleted old checkpoint checkpoints/checkpoint_epoch_53.pth
+2024-06-23 09:41:43,186 Starting epoch 55 out of 80
+2024-06-23 09:42:32,007 Training of this epoch is complete, now validating
+2024-06-23 09:42:36,001 Epoch 55 out of 80, Training Loss: 0.2683, Training Metric: 0.4271, Validation Loss: 0.5480, Validation Metric: 0.4071
+2024-06-23 09:42:39,037 Checkpoint saved at checkpoints/checkpoint_epoch_55.pth
+2024-06-23 09:42:39,037 New best checkpoint at checkpoints/checkpoint_epoch_55.pth with validation metric 0.4071
+2024-06-23 09:42:39,097 Deleted old checkpoint checkpoints/checkpoint_epoch_54.pth
+2024-06-23 09:42:39,097 Starting epoch 56 out of 80
+2024-06-23 09:43:27,875 Training of this epoch is complete, now validating
+2024-06-23 09:43:31,879 Epoch 56 out of 80, Training Loss: 0.2639, Training Metric: 0.4330, Validation Loss: 0.5642, Validation Metric: 0.4114
+2024-06-23 09:43:34,888 Checkpoint saved at checkpoints/checkpoint_epoch_56.pth
+2024-06-23 09:43:34,888 New best checkpoint at checkpoints/checkpoint_epoch_56.pth with validation metric 0.4114
+2024-06-23 09:43:34,948 Deleted old checkpoint checkpoints/checkpoint_epoch_55.pth
+2024-06-23 09:43:34,949 Starting epoch 57 out of 80
+2024-06-23 09:44:23,945 Training of this epoch is complete, now validating
+2024-06-23 09:44:27,954 Epoch 57 out of 80, Training Loss: 0.2650, Training Metric: 0.4316, Validation Loss: 0.5499, Validation Metric: 0.4111
+2024-06-23 09:44:30,969 Checkpoint saved at checkpoints/checkpoint_epoch_57.pth
+2024-06-23 09:44:30,971 Starting epoch 58 out of 80
+2024-06-23 09:45:20,016 Training of this epoch is complete, now validating
+2024-06-23 09:45:24,028 Epoch 58 out of 80, Training Loss: 0.2626, Training Metric: 0.4333, Validation Loss: 0.5616, Validation Metric: 0.4125
+2024-06-23 09:45:26,981 Checkpoint saved at checkpoints/checkpoint_epoch_58.pth
+2024-06-23 09:45:26,981 New best checkpoint at checkpoints/checkpoint_epoch_58.pth with validation metric 0.4125
+2024-06-23 09:45:27,042 Deleted old checkpoint checkpoints/checkpoint_epoch_56.pth
+2024-06-23 09:45:27,103 Deleted old checkpoint checkpoints/checkpoint_epoch_57.pth
+2024-06-23 09:45:27,103 Starting epoch 59 out of 80
+2024-06-23 09:46:16,550 Training of this epoch is complete, now validating
+2024-06-23 09:46:20,553 Epoch 59 out of 80, Training Loss: 0.2622, Training Metric: 0.4325, Validation Loss: 0.5524, Validation Metric: 0.4112
+2024-06-23 09:46:23,557 Checkpoint saved at checkpoints/checkpoint_epoch_59.pth
+2024-06-23 09:46:23,559 Starting epoch 60 out of 80
+2024-06-23 09:47:13,217 Training of this epoch is complete, now validating
+2024-06-23 09:47:17,200 Epoch 60 out of 80, Training Loss: 0.2582, Training Metric: 0.4379, Validation Loss: 0.5595, Validation Metric: 0.4165
+2024-06-23 09:47:20,335 Checkpoint saved at checkpoints/checkpoint_epoch_60.pth
+2024-06-23 09:47:20,336 New best checkpoint at checkpoints/checkpoint_epoch_60.pth with validation metric 0.4165
+2024-06-23 09:47:20,394 Deleted old checkpoint checkpoints/checkpoint_epoch_58.pth
+2024-06-23 09:47:20,454 Deleted old checkpoint checkpoints/checkpoint_epoch_59.pth
+2024-06-23 09:47:20,454 Starting epoch 61 out of 80
+2024-06-23 09:48:10,294 Training of this epoch is complete, now validating
+2024-06-23 09:48:14,303 Epoch 61 out of 80, Training Loss: 0.2588, Training Metric: 0.4382, Validation Loss: 0.5393, Validation Metric: 0.4170
+2024-06-23 09:48:17,354 Checkpoint saved at checkpoints/checkpoint_epoch_61.pth
+2024-06-23 09:48:17,354 New best checkpoint at checkpoints/checkpoint_epoch_61.pth with validation metric 0.4170
+2024-06-23 09:48:17,414 Deleted old checkpoint checkpoints/checkpoint_epoch_60.pth
+2024-06-23 09:48:17,414 Starting epoch 62 out of 80
+2024-06-23 09:49:07,104 Training of this epoch is complete, now validating
+2024-06-23 09:49:11,109 Epoch 62 out of 80, Training Loss: 0.2548, Training Metric: 0.4419, Validation Loss: 0.5692, Validation Metric: 0.4195
+2024-06-23 09:49:14,031 Checkpoint saved at checkpoints/checkpoint_epoch_62.pth
+2024-06-23 09:49:14,032 New best checkpoint at checkpoints/checkpoint_epoch_62.pth with validation metric 0.4195
+2024-06-23 09:49:14,099 Deleted old checkpoint checkpoints/checkpoint_epoch_61.pth
+2024-06-23 09:49:14,099 Starting epoch 63 out of 80
+2024-06-23 09:50:03,705 Training of this epoch is complete, now validating
+2024-06-23 09:50:07,714 Epoch 63 out of 80, Training Loss: 0.2545, Training Metric: 0.4441, Validation Loss: 0.5803, Validation Metric: 0.4214
+2024-06-23 09:50:10,775 Checkpoint saved at checkpoints/checkpoint_epoch_63.pth
+2024-06-23 09:50:10,775 New best checkpoint at checkpoints/checkpoint_epoch_63.pth with validation metric 0.4214
+2024-06-23 09:50:10,834 Deleted old checkpoint checkpoints/checkpoint_epoch_62.pth
+2024-06-23 09:50:10,834 Starting epoch 64 out of 80
+2024-06-23 09:51:00,375 Training of this epoch is complete, now validating
+2024-06-23 09:51:04,383 Epoch 64 out of 80, Training Loss: 0.2549, Training Metric: 0.4441, Validation Loss: 0.5687, Validation Metric: 0.4212
+2024-06-23 09:51:07,426 Checkpoint saved at checkpoints/checkpoint_epoch_64.pth
+2024-06-23 09:51:07,427 Starting epoch 65 out of 80
+2024-06-23 09:51:56,845 Training of this epoch is complete, now validating
+2024-06-23 09:52:00,854 Epoch 65 out of 80, Training Loss: 0.2491, Training Metric: 0.4475, Validation Loss: 0.5565, Validation Metric: 0.4256
+2024-06-23 09:52:03,858 Checkpoint saved at checkpoints/checkpoint_epoch_65.pth
+2024-06-23 09:52:03,858 New best checkpoint at checkpoints/checkpoint_epoch_65.pth with validation metric 0.4256
+2024-06-23 09:52:03,921 Deleted old checkpoint checkpoints/checkpoint_epoch_63.pth
+2024-06-23 09:52:03,980 Deleted old checkpoint checkpoints/checkpoint_epoch_64.pth
+2024-06-23 09:52:03,980 Starting epoch 66 out of 80
+2024-06-23 09:52:52,831 Training of this epoch is complete, now validating
+2024-06-23 09:52:56,846 Epoch 66 out of 80, Training Loss: 0.2469, Training Metric: 0.4500, Validation Loss: 0.5388, Validation Metric: 0.4291
+2024-06-23 09:52:59,966 Checkpoint saved at checkpoints/checkpoint_epoch_66.pth
+2024-06-23 09:52:59,966 New best checkpoint at checkpoints/checkpoint_epoch_66.pth with validation metric 0.4291
+2024-06-23 09:53:00,026 Deleted old checkpoint checkpoints/checkpoint_epoch_65.pth
+2024-06-23 09:53:00,026 Starting epoch 67 out of 80
+2024-06-23 09:53:48,795 Training of this epoch is complete, now validating
+2024-06-23 09:53:52,834 Epoch 67 out of 80, Training Loss: 0.2498, Training Metric: 0.4484, Validation Loss: 0.5610, Validation Metric: 0.4264
+2024-06-23 09:53:55,875 Checkpoint saved at checkpoints/checkpoint_epoch_67.pth
+2024-06-23 09:53:55,877 Starting epoch 68 out of 80
+2024-06-23 09:54:44,651 Training of this epoch is complete, now validating
+2024-06-23 09:54:48,657 Epoch 68 out of 80, Training Loss: 0.2462, Training Metric: 0.4505, Validation Loss: 0.5386, Validation Metric: 0.4284
+2024-06-23 09:54:51,707 Checkpoint saved at checkpoints/checkpoint_epoch_68.pth
+2024-06-23 09:54:51,766 Deleted old checkpoint checkpoints/checkpoint_epoch_67.pth
+2024-06-23 09:54:51,766 Starting epoch 69 out of 80
+2024-06-23 09:55:40,644 Training of this epoch is complete, now validating
+2024-06-23 09:55:44,661 Epoch 69 out of 80, Training Loss: 0.2439, Training Metric: 0.4576, Validation Loss: 0.5423, Validation Metric: 0.4336
+2024-06-23 09:55:47,689 Checkpoint saved at checkpoints/checkpoint_epoch_69.pth
+2024-06-23 09:55:47,689 New best checkpoint at checkpoints/checkpoint_epoch_69.pth with validation metric 0.4336
+2024-06-23 09:55:47,751 Deleted old checkpoint checkpoints/checkpoint_epoch_66.pth
+2024-06-23 09:55:47,810 Deleted old checkpoint checkpoints/checkpoint_epoch_68.pth
+2024-06-23 09:55:47,810 Starting epoch 70 out of 80
+2024-06-23 09:56:37,001 Training of this epoch is complete, now validating
+2024-06-23 09:56:40,996 Epoch 70 out of 80, Training Loss: 0.2460, Training Metric: 0.4548, Validation Loss: 0.5535, Validation Metric: 0.4308
+2024-06-23 09:56:43,979 Checkpoint saved at checkpoints/checkpoint_epoch_70.pth
+2024-06-23 09:56:43,981 Starting epoch 71 out of 80
+2024-06-23 09:57:33,525 Training of this epoch is complete, now validating
+2024-06-23 09:57:37,537 Epoch 71 out of 80, Training Loss: 0.2437, Training Metric: 0.4568, Validation Loss: 0.5455, Validation Metric: 0.4332
+2024-06-23 09:57:40,482 Checkpoint saved at checkpoints/checkpoint_epoch_71.pth
+2024-06-23 09:57:40,544 Deleted old checkpoint checkpoints/checkpoint_epoch_70.pth
+2024-06-23 09:57:40,544 Starting epoch 72 out of 80
+2024-06-23 09:58:30,278 Training of this epoch is complete, now validating
+2024-06-23 09:58:34,310 Epoch 72 out of 80, Training Loss: 0.2397, Training Metric: 0.4603, Validation Loss: 0.5776, Validation Metric: 0.4350
+2024-06-23 09:58:37,374 Checkpoint saved at checkpoints/checkpoint_epoch_72.pth
+2024-06-23 09:58:37,374 New best checkpoint at checkpoints/checkpoint_epoch_72.pth with validation metric 0.4350
+2024-06-23 09:58:37,433 Deleted old checkpoint checkpoints/checkpoint_epoch_69.pth
+2024-06-23 09:58:37,491 Deleted old checkpoint checkpoints/checkpoint_epoch_71.pth
+2024-06-23 09:58:37,491 Starting epoch 73 out of 80
+2024-06-23 09:59:27,306 Training of this epoch is complete, now validating
+2024-06-23 09:59:31,337 Epoch 73 out of 80, Training Loss: 0.2394, Training Metric: 0.4582, Validation Loss: 0.5407, Validation Metric: 0.4353
+2024-06-23 09:59:34,257 Checkpoint saved at checkpoints/checkpoint_epoch_73.pth
+2024-06-23 09:59:34,257 New best checkpoint at checkpoints/checkpoint_epoch_73.pth with validation metric 0.4353
+2024-06-23 09:59:34,319 Deleted old checkpoint checkpoints/checkpoint_epoch_72.pth
+2024-06-23 09:59:34,319 Starting epoch 74 out of 80
+2024-06-23 10:00:24,728 Training of this epoch is complete, now validating
+2024-06-23 10:00:28,769 Epoch 74 out of 80, Training Loss: 0.2379, Training Metric: 0.4623, Validation Loss: 0.6126, Validation Metric: 0.4358
+2024-06-23 10:00:31,717 Checkpoint saved at checkpoints/checkpoint_epoch_74.pth
+2024-06-23 10:00:31,718 New best checkpoint at checkpoints/checkpoint_epoch_74.pth with validation metric 0.4358
+2024-06-23 10:00:31,778 Deleted old checkpoint checkpoints/checkpoint_epoch_73.pth
+2024-06-23 10:00:31,778 Starting epoch 75 out of 80
+2024-06-23 10:01:22,212 Training of this epoch is complete, now validating
+2024-06-23 10:01:26,206 Epoch 75 out of 80, Training Loss: 0.2399, Training Metric: 0.4608, Validation Loss: 0.5277, Validation Metric: 0.4384
+2024-06-23 10:01:29,226 Checkpoint saved at checkpoints/checkpoint_epoch_75.pth
+2024-06-23 10:01:29,226 New best checkpoint at checkpoints/checkpoint_epoch_75.pth with validation metric 0.4384
+2024-06-23 10:01:29,293 Deleted old checkpoint checkpoints/checkpoint_epoch_74.pth
+2024-06-23 10:01:29,293 Starting epoch 76 out of 80
+2024-06-23 10:02:19,162 Training of this epoch is complete, now validating
+2024-06-23 10:02:23,175 Epoch 76 out of 80, Training Loss: 0.2390, Training Metric: 0.4629, Validation Loss: 0.5506, Validation Metric: 0.4382
+2024-06-23 10:02:26,192 Checkpoint saved at checkpoints/checkpoint_epoch_76.pth
+2024-06-23 10:02:26,193 Starting epoch 77 out of 80
+2024-06-23 10:03:15,654 Training of this epoch is complete, now validating
+2024-06-23 10:03:19,660 Epoch 77 out of 80, Training Loss: 0.2355, Training Metric: 0.4650, Validation Loss: 0.5529, Validation Metric: 0.4411
+2024-06-23 10:03:22,771 Checkpoint saved at checkpoints/checkpoint_epoch_77.pth
+2024-06-23 10:03:22,771 New best checkpoint at checkpoints/checkpoint_epoch_77.pth with validation metric 0.4411
+2024-06-23 10:03:22,838 Deleted old checkpoint checkpoints/checkpoint_epoch_75.pth
+2024-06-23 10:03:22,906 Deleted old checkpoint checkpoints/checkpoint_epoch_76.pth
+2024-06-23 10:03:22,906 Starting epoch 78 out of 80
+2024-06-23 10:04:13,016 Training of this epoch is complete, now validating
+2024-06-23 10:04:17,020 Epoch 78 out of 80, Training Loss: 0.2340, Training Metric: 0.4676, Validation Loss: 0.5530, Validation Metric: 0.4427
+2024-06-23 10:04:20,078 Checkpoint saved at checkpoints/checkpoint_epoch_78.pth
+2024-06-23 10:04:20,078 New best checkpoint at checkpoints/checkpoint_epoch_78.pth with validation metric 0.4427
+2024-06-23 10:04:20,137 Deleted old checkpoint checkpoints/checkpoint_epoch_77.pth
+2024-06-23 10:04:20,137 Starting epoch 79 out of 80
+2024-06-23 10:05:09,285 Training of this epoch is complete, now validating
+2024-06-23 10:05:13,302 Epoch 79 out of 80, Training Loss: 0.2336, Training Metric: 0.4700, Validation Loss: 0.5537, Validation Metric: 0.4442
+2024-06-23 10:05:16,286 Checkpoint saved at checkpoints/checkpoint_epoch_79.pth
+2024-06-23 10:05:16,286 New best checkpoint at checkpoints/checkpoint_epoch_79.pth with validation metric 0.4442
+2024-06-23 10:05:16,347 Deleted old checkpoint checkpoints/checkpoint_epoch_78.pth
